@@ -1,1 +1,1 @@
-# SciNumTools v3 <br/>Graphical User Interface
+# SciNumTools v3 <br/>Graphical User Interface (GUI)
